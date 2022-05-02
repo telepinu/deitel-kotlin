@@ -1,6 +1,7 @@
 # deitel-kotlin
 solution for the exercises of the deitel's "java how to program book" with kotlin
-**every units will be inside of different branch**
+
+**every unit will be inside of different branch**
 
 # UNITS
 
